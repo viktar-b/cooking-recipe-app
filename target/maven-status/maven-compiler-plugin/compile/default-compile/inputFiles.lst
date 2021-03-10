@@ -1,2 +1,11 @@
+/Users/viktar-b/springframeworkcourse/cooking-recipe-app/src/main/java/io/viktar/cookingrecipeapp/domain/Ingredient.java
+/Users/viktar-b/springframeworkcourse/cooking-recipe-app/src/main/java/io/viktar/cookingrecipeapp/domain/Notes.java
+/Users/viktar-b/springframeworkcourse/cooking-recipe-app/src/main/java/io/viktar/cookingrecipeapp/repositories/CategoryRepository.java
+/Users/viktar-b/springframeworkcourse/cooking-recipe-app/src/main/java/io/viktar/cookingrecipeapp/domain/UnitOfMeasure.java
+/Users/viktar-b/springframeworkcourse/cooking-recipe-app/src/main/java/io/viktar/cookingrecipeapp/domain/Category.java
+/Users/viktar-b/springframeworkcourse/cooking-recipe-app/src/main/java/io/viktar/cookingrecipeapp/domain/Difficulty.java
+/Users/viktar-b/springframeworkcourse/cooking-recipe-app/src/main/java/io/viktar/cookingrecipeapp/repositories/RecipeRepository.java
 /Users/viktar-b/springframeworkcourse/cooking-recipe-app/src/main/java/io/viktar/cookingrecipeapp/controllers/IndexController.java
+/Users/viktar-b/springframeworkcourse/cooking-recipe-app/src/main/java/io/viktar/cookingrecipeapp/domain/Recipe.java
+/Users/viktar-b/springframeworkcourse/cooking-recipe-app/src/main/java/io/viktar/cookingrecipeapp/repositories/UnitOfMeasureRepository.java
 /Users/viktar-b/springframeworkcourse/cooking-recipe-app/src/main/java/io/viktar/cookingrecipeapp/CookingRecipeAppApplication.java

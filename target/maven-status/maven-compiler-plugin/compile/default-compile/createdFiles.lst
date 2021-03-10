@@ -1,2 +1,11 @@
 io/viktar/cookingrecipeapp/CookingRecipeAppApplication.class
+io/viktar/cookingrecipeapp/domain/Category.class
+io/viktar/cookingrecipeapp/domain/Ingredient.class
+io/viktar/cookingrecipeapp/domain/Recipe.class
 io/viktar/cookingrecipeapp/controllers/IndexController.class
+io/viktar/cookingrecipeapp/domain/Notes.class
+io/viktar/cookingrecipeapp/domain/Difficulty.class
+io/viktar/cookingrecipeapp/repositories/UnitOfMeasureRepository.class
+io/viktar/cookingrecipeapp/repositories/RecipeRepository.class
+io/viktar/cookingrecipeapp/domain/UnitOfMeasure.class
+io/viktar/cookingrecipeapp/repositories/CategoryRepository.class
